@@ -700,7 +700,7 @@ end
 
 start.MouseButton1Click:Connect(function()
     running = not running
-    start.Text = running and "TERMINATE SYSTEM" or "START á´MonK´ x Zm"
+    start.Text = running and "TERMINATE SYSTEM" or "START ZER0 MERCY"
     
     if running then
         startGrad.Enabled = false
