@@ -293,7 +293,7 @@ desc2.BackgroundTransparency = 1
 local desc3 = Instance.new("TextLabel", welcomeUI)
 desc3.Size = UDim2.new(1, -50, 0, 20)
 desc3.Position = UDim2.new(0, 25, 0, 160)
-desc3.Text = "Zm Ko Join karlo!"
+desc3.Text = "ZER0 MERCY ON TOP 🚩!"
 desc3.Font = Enum.Font.GothamBold
 desc3.TextColor3 = DeepTextDark
 desc3.TextSize = 12
@@ -860,7 +860,7 @@ startBtn.MouseButton1Click:Connect(function()
 
     applyIdentity()
     
-    send([[@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Zm SPAMMER LOADED ðŸŒ¸ðŸ¦]])
+    send([[@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ ZER0 MERCY ON TOP]])
 end)
 
 --==================================================
@@ -897,7 +897,7 @@ local function createOwnerTitle(character)
     local label = Instance.new("TextLabel")
     label.Size = UDim2.new(1, 0, 1, 0)
     label.BackgroundTransparency = 1
-    label.Text = "OWNER"
+    label.Text = "OWNER✌🏻"
     label.TextColor3 = PureNeonRed
     label.Font = Enum.Font.GothamBlack
     label.TextSize = 28
