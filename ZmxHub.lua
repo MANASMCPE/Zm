@@ -44,7 +44,7 @@ end)
 local infoTab = window:Tab({ Title = "Info", Icon = "info" })
 local playerTab = window:Tab({ Title = "Player", Icon = "user" })
 MainTab = window:Tab({ Title = "Main", Icon = "house" })
-FlingTab = window:Tab({ Title = "TROLL", Icon = "WIND" })
+FlingTab = window:Tab({ Title = "TROLL", Icon = "wind" })
 ProtectionTab = window:Tab({ Title = "Protection", Icon = "shield" })
 window:SelectTab(1)
 
