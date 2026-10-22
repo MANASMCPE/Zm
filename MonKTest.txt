@@ -6,7 +6,7 @@ local runService = game:GetService("RunService")
 local replicatedStorage = game:GetService("ReplicatedStorage")
 local userInputService = game:GetService("UserInputService")
 local localPlayer = players.LocalPlayer
-local Library = loadstring(game:HttpGet("h"https://pastefy.app/mHQpCo1e/raw", true))()
+local Library = loadstring(game:HttpGet("https://pastefy.app/mHQpCo1e/raw", true))()
 
 local window = Library:CreateWindow({
   Title = "ZERO MERCY | ",
